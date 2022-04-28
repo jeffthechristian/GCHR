@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-26T11:30:29.654465300Z</date>
+  <millis>1635247829654</millis>
+  <nanos>465300</nanos>
+  <sequence>0</sequence>
+  <logger>LogFileInfo.log</logger>
+  <level>INFO</level>
+  <class>Code.MainPanel</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Button: 1 = successful</message>
+</record>
+<record>
+  <date>2021-10-26T11:30:29.670423600Z</date>
+  <millis>1635247829670</millis>
+  <nanos>423600</nanos>
+  <sequence>1</sequence>
+  <logger>LogFileInfo.log</logger>
+  <level>INFO</level>
+  <class>Code.MainPanel</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Button: 2 = successful</message>
+</record>
+<record>
+  <date>2021-10-26T11:30:29.671420300Z</date>
+  <millis>1635247829671</millis>
+  <nanos>420300</nanos>
+  <sequence>2</sequence>
+  <logger>LogFileInfo.log</logger>
+  <level>INFO</level>
+  <class>Code.MainPanel</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Button: 3 = successful</message>
+</record>
+<record>
+  <date>2021-10-26T11:30:29.671420300Z</date>
+  <millis>1635247829671</millis>
+  <nanos>420300</nanos>
+  <sequence>3</sequence>
+  <logger>LogFileInfo.log</logger>
+  <level>INFO</level>
+  <class>Code.MainPanel</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Button: 4 = successful</message>
+</record>
+<record>
+  <date>2021-10-26T11:30:31.587582900Z</date>
+  <millis>1635247831587</millis>
+  <nanos>582900</nanos>
+  <sequence>4</sequence>
+  <logger>LogFileInfo.log</logger>
+  <level>INFO</level>
+  <class>Code.MainPanel</class>
+  <method>actionPerformed</method>
+  <thread>18</thread>
+  <message>Delete History button works just fine like a wine!</message>
+</record>
+<record>
+  <date>2021-10-26T11:30:31.798540400Z</date>
+  <millis>1635247831798</millis>
+  <nanos>540400</nanos>
+  <sequence>6</sequence>
+  <logger>LogFileInfo.log</logger>
+  <level>INFO</level>
+  <class>Code.MainPanel</class>
+  <method>actionPerformed</method>
+  <thread>18</thread>
+  <message>Delete Cache button works just fine like a wine!</message>
+</record>
+<record>
+  <date>2021-10-26T11:30:32.146731500Z</date>
+  <millis>1635247832146</millis>
+  <nanos>731500</nanos>
+  <sequence>7</sequence>
+  <logger>LogFileInfo.log</logger>
+  <level>INFO</level>
+  <class>Code.MainPanel</class>
+  <method>actionPerformed</method>
+  <thread>18</thread>
+  <message>Monkey button works just fine like a wine!</message>
+</record>
+</log>
